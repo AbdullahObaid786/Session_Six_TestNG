@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13917" started-at="2022-04-03T19:22:21 CDT" finished-at="2022-04-03T19:22:35 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13917" started-at="2022-04-03T19:22:21 CDT" finished-at="2022-04-03T19:22:35 CDT">
+      <class name="variousConcepts.CrmTest$VariousConcepts">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousConcepts.CrmTest$VariousConcepts@436e852b]" name="readConfig" is-config="true" duration-ms="20" started-at="2022-04-03T19:22:21 CDT" finished-at="2022-04-03T19:22:21 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.CrmTest$VariousConcepts@436e852b]" name="init" is-config="true" duration-ms="4471" started-at="2022-04-03T19:22:21 CDT" finished-at="2022-04-03T19:22:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:variousConcepts.CrmTest$VariousConcepts@436e852b]" name="loginTest" duration-ms="1850" started-at="2022-04-03T19:22:26 CDT" finished-at="2022-04-03T19:22:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.CrmTest$VariousConcepts@436e852b]" name="init" is-config="true" duration-ms="3266" started-at="2022-04-03T19:22:27 CDT" finished-at="2022-04-03T19:22:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomerTest()[pri:2, instance:variousConcepts.CrmTest$VariousConcepts@436e852b]" name="addCustomerTest" duration-ms="4232" started-at="2022-04-03T19:22:31 CDT" finished-at="2022-04-03T19:22:35 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomerTest -->
+      </class> <!-- variousConcepts.CrmTest$VariousConcepts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
